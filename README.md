@@ -1,2 +1,2 @@
 # shell-scripting
-A repo on Shell Scripting and projects related to it.
+Everything about Shell Scripting to learn from basics to advanced for DevOps community
